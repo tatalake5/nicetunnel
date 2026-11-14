@@ -13,7 +13,7 @@ id = "f38fc9ecc1dc45a6a82cac2f6b8ffb78"
 # crons = ["*/5 * * * *"]
 
 # 环境变量（敏感值请用 `wrangler secret put`）：
-# ADMIN  后台密码（必填）
+# ADMIN  admin528355（必填）
 # KEY    快速订阅路径 / 加密密钥（可选，与 edgetunnel 同义）
 # UUID   固定 UUID（可选；所有节点站点必须一致）
 # HOST   订阅 token 绑定的域名（可选；不填=请求域名）
