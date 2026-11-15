@@ -5,7 +5,7 @@ compatibility_date = "2025-09-01"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "f38fc9ecc1dc45a6a82cac2f6b8ffb78"
+id = "073dead705294305acebd8220e3f48af"
 
 # 每 5 分钟：分批轮询各账号用量 + 一小块维护（规则列表 / CIDR / 日志落盘）
 # 免费版 Cron 每次触发 CPU 上限 10ms（网络等待不计），代码已按小块设计
