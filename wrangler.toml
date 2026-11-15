@@ -1,7 +1,7 @@
 # 主站（main）示例配置：Workers + KV + Cron。节点站点（Pages，无 KV）无需此文件，直接上传 dist/_worker.js。
 name = "nicetunnel"
 main = "dist/_worker.js"
-compatibility_date = "2025-09-01"
+compatibility_date = "2026-01-01"
 
 [[kv_namespaces]]
 binding = "KV"
